@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Deivid da Silva Trindade</h1>
 
 <p align="center">
-  <b>Desenvolvedor Fullstack em formação</b><br>
+  <b>Desenvolvedor Fullstack em estágio</b><br>
   Python • Django • Docker • SQLite • HTML • CSS
 </p>
 
@@ -29,11 +29,11 @@
 ---
 
 ## 🧠 Sobre mim
-Atuo como **desenvolvedor fullstack em estágio**, com foco em **back-end em Python e Django**, utilizando **SQLite** como banco de dados e **Docker** para containerização de aplicações.
+Atuo como desenvolvedor fullstack em estágio, com foco em back-end em Python e Django, utilizando SQLite como banco de dados e Docker para containerização de aplicações.
 
-No front-end, trabalho com **HTML e CSS**, buscando interfaces simples, funcionais e bem estruturadas.
+No front-end, trabalho com HTML e CSS, desenvolvendo interfaces simples, funcionais e bem estruturadas.
 
-Tenho interesse em **boas práticas, arquitetura de software** e integração entre front-end e back-end.
+Tenho interesse em boas práticas, arquitetura de software e integração entre front-end e back-end.
 
 ---
 
